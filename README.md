@@ -1,9 +1,10 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-==========================================================================================================================================
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World !</h1>
+
+---
 
 
-My name is Rodolfo Araujo. I work as a Software Engineer.
+My name is Rodolfo Araujo and I work as a Software Engineer.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rodoufu&repo=rodoufu&countColorcountColor)
 
@@ -14,11 +15,3 @@ My name is Rodolfo Araujo. I work as a Software Engineer.
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=rodoufu&count_private=true&show_icons=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rodoufu&hide_border=true)
-
-### Let's connect? 🤝
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/rodolfoara"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
-</p>
