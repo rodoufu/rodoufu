@@ -4,7 +4,14 @@
 ---
 
 
-My name is Rodolfo Araujo and I work as a Software Engineer.
+My name is Rodolfo Araujo and I am a Software engineer, Blockchain and data enthusiastic.
+
+I am passionate about working with cutting-edge technologies and learning new things.
+For the last years, I worked mainly in developing distributed and parallel applications for optimization problems.
+More recently I have been building a high-performance exchange infrastructure for trading derivatives on digital assets.
+I am responsible for developing high-performance applications written in C/C++, Rust, and Golang for the blockchain platform, integrating with Bitcoin and Ethereum.
+
+If you got interested, check out my profile at CodersRank https://profile.codersrank.io/user/rodoufu
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rodoufu&repo=rodoufu&countColorcountColor)
 
